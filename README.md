@@ -100,3 +100,4 @@ public Mono<User> getUserDetails(@PathVariable String userId) {
 * Observer pattern
 
 ## tbc from vid 13
+## i think i should do a course on Java Concurrency before continuing this course.
